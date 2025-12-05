@@ -14,6 +14,8 @@ Entrega:
 - Um diagrama ou esboço do seu modelo de grafo.
 - Um script cypher (.cypher) que cria constraints para os nós (ex. UNIQUE para IDs) e popula o banco com pelo menos 10 usuários, 10 filmes/séries e seus respectivos relacionamentos.
 
+<img width="832" height="538" alt="Grafo" src="https://github.com/user-attachments/assets/867e06d3-ac6e-4730-b004-f22c69e3e999" />
+
 ---
 ### CONSTRAINTS
 CREATE CONSTRAINT user_id IF NOT EXISTS
